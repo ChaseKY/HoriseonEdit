@@ -7,7 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
-
+/* Navigation pane */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -23,7 +23,7 @@ body {
 .header h1 .seo {
     color: #d9dcd6;
 }
-
+/* Changed these 3 header div tags to nav tags */
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -40,7 +40,7 @@ body {
     display: inline-block;
     margin-left: 25px;
 }
-
+/* Paragraph and hyperlink tags */
 a {
     color: #ffffff;
     text-decoration: none;
@@ -49,7 +49,7 @@ a {
 p {
     font-size: 16px;
 }
-
+/* Background picture */
 .hero {
     height: 800px;
     width: 100%;
@@ -74,7 +74,7 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
-
+/* Benefits section (right side of website) */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -133,7 +133,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* Main content of website */
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -160,7 +160,7 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/* Main content pictures */
 .search-engine-optimization img {
     max-height: 200px;
 }
@@ -172,7 +172,7 @@ p {
 .social-media-marketing img {
     max-height: 200px;
 }
-
+/* Main content headers */
 .search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
@@ -187,7 +187,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* Footer section */
 .footer {
     padding: 30px;
     clear: both;
